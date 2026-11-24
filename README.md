@@ -33,7 +33,7 @@ Hey! I'm **Raj Zala**, an IT student interested in software development and tech
 
 ## GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Zala-Raj&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
@@ -41,7 +41,7 @@ Hey! I'm **Raj Zala**, an IT student interested in software development and tech
   <img src="https://streak-stats.demolab.com/?user=Zala-Raj&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zala-Raj&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
