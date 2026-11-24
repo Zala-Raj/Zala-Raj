@@ -12,10 +12,10 @@ Hey! I'm **Raj Zala**, an IT student interested in software development and tech
   <a href="https://instagram.com/_zalaboy_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/raj-zala-9013bb377?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://pinterest.com/" target="_blank">
+  <a href="https://pin.it/6tyTEy8qc" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
   </a>
 </p>
